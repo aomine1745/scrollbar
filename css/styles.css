@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #000;
+	}section{
+		width: 100%;
+		height: 100vh;
+	}
+	::-webkit-scrollbar{
+		width: 12px;
+		background-color: #000;
+	}
+	::-webkit-scrollbar-thumb{
+		background: linear-gradient(#000, #2AFF00);
+		border-radius: 6px;
+
+	}
